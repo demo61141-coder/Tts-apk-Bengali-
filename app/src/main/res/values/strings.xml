@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BanglaTTS Studio</string>
+    <string name="subtitle_bengali">বাংলা টেক্সট-টু-স্পিচ অডিও স্টুডিও (শেরপা-ওএনএনএক্স ২.০.১)</string>
+    <string name="status_model_ready">মডেল প্রস্তুত • অফলাইন ভয়েস ইঞ্জিন সক্রিয় (22050 Hz)</string>
+    <string name="status_model_missing">মডেল অনুপস্থিত • প্রথমবার ব্যবহারের জন্য ডাউনলোড প্রয়োজন</string>
+    <string name="btn_download_model">মডেল ডাউনলোড করুন (১১৪ মেগাবাইট)</string>
+    <string name="btn_retry_download">পুনরায় চেষ্টা করুন (Retry)</string>
+    <string name="btn_paste">পেস্ট করুন</string>
+    <string name="btn_pick_txt">txt ফাইল থেকে নিন</string>
+    <string name="btn_clear">মুছুন</string>
+    <string name="btn_generate">অডিও তৈরি করুন (Generate)</string>
+    <string name="btn_play">চালান (Play)</string>
+    <string name="btn_pause">বিরতি (Pause)</string>
+    <string name="btn_resume">পুনরায় চালান (Resume)</string>
+    <string name="btn_stop">থামান</string>
+    <string name="btn_save_wav">সেভ করুন (WAV)</string>
+    <string name="btn_export_saf">ফোল্ডার/ক্লাউডে এক্সপোর্ট</string>
+    <string name="btn_share">শেয়ার করুন</string>
+    <string name="history_title">সাম্প্রতিক ৮টি অডিও জেনারেশন (লোকাল হিস্ট্রি)</string>
+    <string name="custom_settings_title">কাস্টম অডিও ও ইঞ্জিন সেটিংস</string>
+    <string name="model_manager_title">মডেল ও এপিআই ব্যবস্থাপনা</string>
+</resources>

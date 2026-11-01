@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soundwave + Microphone silhouette inside 66dp safe zone -->
+    <path
+        android:fillColor="#00E5A3"
+        android:pathData="M54,28c-4.42,0 -8,3.58 -8,8v16c0,4.42 3.58,8 8,8s8,-3.58 8,-8V36C62,31.58 58.42,28 54,28z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,52c0,7.73 -6.27,14 -14,14s-14,-6.27 -14,-14h-4c0,9.24 6.97,16.85 16,17.88V78h-6v4h16v-4h-6v-8.12c9.03,-1.03 16,-8.64 16,-17.88H68z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M31,43h3v18h-3zM74,43h3v18h-3zM25,48h3v8h-3zM80,48h3v8h-3z" />
+</vector>

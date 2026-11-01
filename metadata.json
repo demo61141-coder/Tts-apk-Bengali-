@@ -1,0 +1,6 @@
+{
+  "name": "BanglaTTS Studio",
+  "description": "Offline Bengali VITS Text-to-Speech Studio powered by sherpa-onnx 2.0.1 with resumable model download, real-time sentence synthesis, custom audio controls, and WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
